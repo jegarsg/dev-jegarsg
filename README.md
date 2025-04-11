@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and contr
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](#https://www.linkedin.com/in/jegarsg/)
+- [LinkedIn](https://www.linkedin.com/in/jegarsg/)
 
 ---
 
