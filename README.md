@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jegars G!
+# 👋 Hi there, I'm Jegars Ginting!
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and contributing to open-source projects. Here's a little about me:
 
@@ -7,8 +7,9 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and contr
 ## 🚀 About Me
 - 👋 Hi, I'm Jegar – a **Senior Software Engineer** passionate about backend architecture, clean code, and high-performance systems.
 - 💡 I build scalable services using **FastAPI**, **Go**, **NestJS**, **.NET Core**, and **PostgreSQL**.
-- 🌍 Aiming to work globally (**Europe/US**) | Currently in 🇮🇩.
-- 🔧 Skilled in **Clean Architecture**, **Microservices**, **SOLID Principles**, **Docker** and **Kubernetes**.
+- 🌍 Currently in 🇮🇩.
+- 🔧 Skilled in **Clean Architecture**, **Microservices**, **SOLID Principles**, **Docker**, and **Kubernetes**.
+- 🤖 Exploring and building in **Artificial Intelligence** and **Intelligent Automation**.
 - 📫 How to reach me: **jegarsg@gmail.com**
 
 ---
@@ -17,7 +18,8 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and contr
 - **Languages:** Go, Python, JavaScript, C#, TypeScript
 - **Frameworks & Libraries:** FastAPI, NestJS, .NET Core, Gin, Axum
 - **Databases:** PostgreSQL, SQL Server
-- **Tools & Platforms:** Docker, Kubernetes 
+- **Tools & Platforms:** Docker, Kubernetes
+- **AI & NLP:** spaCy, Transformers, LangChain, OpenAI API
 
 ---
 
